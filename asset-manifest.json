@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://soumen-ui.github.io/csb-lt0sp/static/css/main.1c28f215.chunk.css",
-    "main.js": "https://soumen-ui.github.io/csb-lt0sp/static/js/main.3a2dcdf5.chunk.js",
-    "main.js.map": "https://soumen-ui.github.io/csb-lt0sp/static/js/main.3a2dcdf5.chunk.js.map",
+    "main.js": "https://soumen-ui.github.io/csb-lt0sp/static/js/main.463d0ebe.chunk.js",
+    "main.js.map": "https://soumen-ui.github.io/csb-lt0sp/static/js/main.463d0ebe.chunk.js.map",
     "runtime-main.js": "https://soumen-ui.github.io/csb-lt0sp/static/js/runtime-main.bf69aea3.js",
     "runtime-main.js.map": "https://soumen-ui.github.io/csb-lt0sp/static/js/runtime-main.bf69aea3.js.map",
     "static/css/2.b1a0befd.chunk.css": "https://soumen-ui.github.io/csb-lt0sp/static/css/2.b1a0befd.chunk.css",
-    "static/js/2.149a5c21.chunk.js": "https://soumen-ui.github.io/csb-lt0sp/static/js/2.149a5c21.chunk.js",
-    "static/js/2.149a5c21.chunk.js.map": "https://soumen-ui.github.io/csb-lt0sp/static/js/2.149a5c21.chunk.js.map",
+    "static/js/2.3db1c650.chunk.js": "https://soumen-ui.github.io/csb-lt0sp/static/js/2.3db1c650.chunk.js",
+    "static/js/2.3db1c650.chunk.js.map": "https://soumen-ui.github.io/csb-lt0sp/static/js/2.3db1c650.chunk.js.map",
     "index.html": "https://soumen-ui.github.io/csb-lt0sp/index.html",
     "static/css/2.b1a0befd.chunk.css.map": "https://soumen-ui.github.io/csb-lt0sp/static/css/2.b1a0befd.chunk.css.map",
     "static/css/main.1c28f215.chunk.css.map": "https://soumen-ui.github.io/csb-lt0sp/static/css/main.1c28f215.chunk.css.map",
-    "static/js/2.149a5c21.chunk.js.LICENSE.txt": "https://soumen-ui.github.io/csb-lt0sp/static/js/2.149a5c21.chunk.js.LICENSE.txt",
+    "static/js/2.3db1c650.chunk.js.LICENSE.txt": "https://soumen-ui.github.io/csb-lt0sp/static/js/2.3db1c650.chunk.js.LICENSE.txt",
     "static/media/abt.1c82129c.jpg": "https://soumen-ui.github.io/csb-lt0sp/static/media/abt.1c82129c.jpg",
     "static/media/banner1a.146d43b8.png": "https://soumen-ui.github.io/csb-lt0sp/static/media/banner1a.146d43b8.png",
     "static/media/banner2aa.acf3025f.png": "https://soumen-ui.github.io/csb-lt0sp/static/media/banner2aa.acf3025f.png",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.bf69aea3.js",
     "static/css/2.b1a0befd.chunk.css",
-    "static/js/2.149a5c21.chunk.js",
+    "static/js/2.3db1c650.chunk.js",
     "static/css/main.1c28f215.chunk.css",
-    "static/js/main.3a2dcdf5.chunk.js"
+    "static/js/main.463d0ebe.chunk.js"
   ]
 }
